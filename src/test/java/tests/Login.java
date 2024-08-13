@@ -23,7 +23,7 @@ public class Login {
 	public void enters_valid_password(String password) {
 	    System.out.println(">> User enters valid password" + password);
 	}
-
+ // Addeded comment
 	
 
 	@And("^Clicks on Login button$")
